@@ -5,9 +5,6 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/treewzrd/restaurant-order-system/graphs/commit-activity)
 
 A Python-based command-line restaurant order system that allows customers to view menu items, place orders, and receive itemized receipts.git clone https://github.com/treewzrd/restaurant-order-system.git
-cd restaurant-order-systemrestaurant-order-system/
-├── order_system.py    # Main application code
-└── README.md          # Project documentation
 
 ## 📋 Table of Contents
 - [Features](#-features)
@@ -58,21 +55,17 @@ Classic Burger                  | $12.99 | 2
 ----------------------------------------------------
 Total: $25.98
 
-💻 Technologies Used
+## 💻 Technologies Used
 Python 3.7+
 Standard Library Only (No external dependencies)
-🤝 Contributing
+
+##🤝 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-Fork the repository
-Create your feature branch (git checkout -b feature/AmazingFeature)
-Commit your changes (git commit -m 'Add some AmazingFeature')
-Push to the branch (git push origin feature/AmazingFeature)
-Open a Pull Request
-📝 License
+##📝 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-👨‍💻 Author
+##👨‍💻 Author
 Timothy McGrath
 📧 Email: treewzrd@gmail.com
 🔗 GitHub: @treewzrd
