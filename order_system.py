@@ -60,7 +60,7 @@ def place_order(menu):
 
         # Ask the customer if they would like to order anything else
         # Let the customer know if they should type 'n' or 'N' to quit
-        keep_ordering = input("Would you like to keep ordering? (N)o to quit: ")
+        keep_ordering = input("Would you like to keep ordering? (N) to quit: ")
 
         # Write a conditional statement that checks if the customer types
         # 'n' or 'N'
@@ -350,4 +350,3 @@ if __name__ == "__main__":
 
     # Print the receipt footer with the total price
     print_receipt_footer(total_price)
-
